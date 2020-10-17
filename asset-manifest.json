@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/imdb/static/css/main.bb48130c.chunk.css",
-    "main.js": "/imdb/static/js/main.a31f618c.chunk.js",
-    "main.js.map": "/imdb/static/js/main.a31f618c.chunk.js.map",
+    "main.css": "/imdb/static/css/main.74d016a5.chunk.css",
+    "main.js": "/imdb/static/js/main.fa99b1fb.chunk.js",
+    "main.js.map": "/imdb/static/js/main.fa99b1fb.chunk.js.map",
     "runtime-main.js": "/imdb/static/js/runtime-main.056ef7cc.js",
     "runtime-main.js.map": "/imdb/static/js/runtime-main.056ef7cc.js.map",
-    "static/js/2.d6647a8b.chunk.js": "/imdb/static/js/2.d6647a8b.chunk.js",
-    "static/js/2.d6647a8b.chunk.js.map": "/imdb/static/js/2.d6647a8b.chunk.js.map",
+    "static/js/2.6c8c483d.chunk.js": "/imdb/static/js/2.6c8c483d.chunk.js",
+    "static/js/2.6c8c483d.chunk.js.map": "/imdb/static/js/2.6c8c483d.chunk.js.map",
     "index.html": "/imdb/index.html",
-    "precache-manifest.25fdf705569218b40191c82ba20e84a0.js": "/imdb/precache-manifest.25fdf705569218b40191c82ba20e84a0.js",
+    "precache-manifest.0b4e5f467a5ca2a237627266d5034b02.js": "/imdb/precache-manifest.0b4e5f467a5ca2a237627266d5034b02.js",
     "service-worker.js": "/imdb/service-worker.js",
-    "static/css/main.bb48130c.chunk.css.map": "/imdb/static/css/main.bb48130c.chunk.css.map",
-    "static/js/2.d6647a8b.chunk.js.LICENSE.txt": "/imdb/static/js/2.d6647a8b.chunk.js.LICENSE.txt",
+    "static/css/main.74d016a5.chunk.css.map": "/imdb/static/css/main.74d016a5.chunk.css.map",
+    "static/js/2.6c8c483d.chunk.js.LICENSE.txt": "/imdb/static/js/2.6c8c483d.chunk.js.LICENSE.txt",
     "static/media/tom-cruise.jpg": "/imdb/static/media/tom-cruise.fa275866.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.056ef7cc.js",
-    "static/js/2.d6647a8b.chunk.js",
-    "static/css/main.bb48130c.chunk.css",
-    "static/js/main.a31f618c.chunk.js"
+    "static/js/2.6c8c483d.chunk.js",
+    "static/css/main.74d016a5.chunk.css",
+    "static/js/main.fa99b1fb.chunk.js"
   ]
 }
